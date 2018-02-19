@@ -10,5 +10,3 @@ def get_fizz_buzz_list():
             s += str(i)
         res.append(s)
     return res
-
-print(get_fizz_buzz_list())
